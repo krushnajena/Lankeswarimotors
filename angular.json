@@ -121,5 +121,8 @@
       }
     }
   },
-  "defaultProject": "automobile"
+  "defaultProject": "automobile",
+  "cli": {
+    "analytics": false
+  }
 }
